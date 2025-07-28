@@ -157,4 +157,4 @@ If you are in China, there are some problems to use upstream Helm Charts directl
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
